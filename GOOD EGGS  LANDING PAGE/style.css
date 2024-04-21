@@ -1,0 +1,922 @@
+.image{
+    position: absolute;
+    top: 2%;
+    left: 5%;
+    margin: 0%;
+}
+.text{
+position: absolute;
+top: 1%;
+left: 10%;
+margin: 0%;
+font-family: calibri;
+font-size: medium;
+}
+.text1{
+    position: absolute;
+    top: 1%;
+    left: 17%;
+    margin: 0%;
+    font-family: calibri;
+    font-size: medium;
+    }
+.text2{
+        position: absolute;
+        top: 1%;
+        left: 25%;
+        margin: 0%;
+        font-family: calibri;
+        font-size: medium;
+        }
+.text3{
+            position: absolute;
+            top: 1%;
+            left: 34%;
+            margin: 0%;
+            font-family: calibri;
+            font-size: medium;
+            }   
+.text4{
+            position: absolute;
+            top: 1%;
+            left: 67%;
+            margin: 0%;
+            font-family: calibri;
+            font-size: medium;
+            }
+.image1{
+            position: absolute;
+            top: 3.9%;
+            left: 85.5%;
+            margin: 0%;
+                
+           }
+   
+           
+.text5{
+ position: absolute;
+top: 0.8%;
+left: 87%;
+margin: 0%;
+font-family: calibri;
+font-size: medium;
+}    
+.text6{
+    position: absolute;
+    top: 0.8%;
+    left: 93%;
+    margin: 0%;
+    font-family: calibri;
+    font-size: medium;
+    }    
+.text7{
+position: absolute;
+top: 11%;
+ left: 1%;
+ margin: 0%;
+font-family: calibri;
+font-size: medium;
+}  
+.text8{
+    position: absolute;
+    top: 11%;
+     left: 7.50%;
+     margin: 0%;
+    font-family: calibri;
+    font-size: medium;
+    }   
+.text9{
+    position: absolute;
+    top: 11%;
+     left: 16%;
+     margin: 0%;
+    font-family: calibri;
+    font-size: medium;
+    } 
+  .text10{
+    position: absolute;
+    top: 11%;
+     left: 21%;
+     margin: 0%;
+    font-family: calibri;
+    font-size: medium;
+    }   
+    .text11{
+    position: absolute;
+    top: 11%;
+     left: 28%;
+     margin: 0%;
+    font-family: calibri;
+    font-size: medium;
+    }    
+.text12{
+    position: absolute;
+    top: 11%;
+     left: 35%;
+     margin: 0%;
+    font-family: calibri;
+    font-size: medium;
+    }  
+    .text13{
+    position: absolute;
+    top: 11%;
+     left: 38%;
+     margin: 0%;
+    font-family: calibri;
+    font-size: medium;
+    }  
+    .text14{
+    position: absolute;
+    top: 11%;
+     left: 45%;
+     margin: 0%;
+    font-family: calibri;
+    font-size: medium;
+    }    
+  .text15{
+    position: absolute;
+    top: 11%;
+     left: 49%;
+     margin: 0%;
+    font-family: calibri;
+    font-size: medium;
+    }    
+.text16{
+    position: absolute;
+    top: 11%;
+     left: 53.5%;
+     margin: 0%;
+    font-family: calibri;
+    font-size: medium;
+    }    
+
+.text17{
+    position: absolute;
+    top: 11%;
+     left: 57.5%;
+     margin: 0%;
+    font-family: calibri;
+    font-size: medium;
+    }    
+  .text18{
+    position: absolute;
+    top: 11%;
+     left: 61.5%;
+     margin: 0%;
+    font-family: calibri;
+    font-size: medium;
+    }    
+.text19{
+    position: absolute;
+    top: 11%;
+     left: 66%;
+     margin: 0%;
+    font-family: calibri;
+    font-size: medium;
+    }    
+.text20{
+    position: absolute;
+    top: 11%;
+     left: 70.5%;
+     margin: 0%;
+    font-family: calibri;
+    font-size: medium;
+    }    
+.text21{
+    position: absolute;
+    top: 11%;
+     left: 79%;
+     margin: 0%;
+    font-family: calibri;
+    font-size: medium;
+    }    
+.vertical-line{
+    position: absolute;
+    width: 1px;
+    height: 40px;
+    background-color: gray;
+    top: 11%;
+    left: 86%;
+}
+.text22{
+    position: absolute;
+    top: 11%;
+     left: 87%;
+     margin: 0%;
+    font-family: calibri;
+    font-size: medium;
+    }   
+    .image2{
+        position: absolute;
+        top: 13.5%;
+        left: 92%;
+        margin: 0%;
+            
+       }
+
+       .image3{
+        position: absolute;
+        top: 10%;
+        left: 95%;
+        margin: 0%;
+            
+       }       
+       .image4{
+        position: absolute;
+        top: 30%;
+        left: 5%;
+        margin: 0%;
+        
+            
+       }       
+       .text23{
+        position: absolute;
+        top: 30%;
+         left: 10%;
+         margin: 0%;
+        font-family: calibri;
+        font-size: small;
+        color: rgb(255, 255, 255);
+        }   
+        .text24{
+            position: absolute;
+            top: 30%;
+             left: 57%;
+             margin: 0%;
+            font-family: calibri;
+            font-size: small;
+            color: rgb(255, 255, 255);
+           
+            }   
+.image5{
+        position: absolute;
+        top: 30%;
+        left: 90%;
+        margin: 0%;
+        
+            
+       }     
+.image6{
+    position: absolute;
+    top: 48%;
+    left: 5%;
+    margin: 0%;
+       }         
+       .text25{
+        position: absolute;
+        top: 55%;
+         left: 70%;
+         margin: 0%;
+        font-family: arial;
+        font-size:150%;
+        color: rgb(0, 0, 0);
+        }   
+
+.text26{
+        position: absolute;
+        top: 62%;
+         left: 64%;
+         margin: 0%;
+        font-family: arial;
+        font-size:large;
+        color: rgb(22, 22, 21);
+        text-align: center;
+        }   
+.transparent{
+    position: absolute;
+    top: 81%;
+    left:76% ;
+    height: 25px;
+    width: 170px;
+  background-color:transparent;
+  border-radius: 15px 15px;
+  border: 3px solid #0a8373; 
+}
+.text27{
+    position: absolute;
+    top: 81%;
+     left: 77%;
+     margin: 0%;
+    font-family: arial;
+    font-size:73%;
+    color: #0a8373;
+    }   
+.text28{
+        position: absolute;
+        top: 110%;
+         left: 5%;
+         margin: 0%;
+        font-family: arial;
+        font-size:x-large;
+        color: #292727;
+        }  
+        .image7{
+        position: absolute;
+        top: 120%;
+        left: 5%;
+        margin: 0%;
+        }
+.text29{
+        position: absolute;
+        top: 148%;
+         left: 10%;
+         margin: 0%;
+        font-family: arial;
+        font-size:large;
+        color: #292727;
+        }  
+        .image8{
+            position: absolute;
+            top: 120%;
+            left: 26%;
+            margin: 0%;
+            }
+.text30{
+        position: absolute;
+        top: 148%;
+         left: 28%;
+         margin: 0%;
+        font-family: arial;
+        font-size:large;
+        color: #292727;
+        }  
+        .image9{
+        position: absolute;
+        top: 120%;
+        left: 45%;
+        margin: 0%;
+        }
+.text31{
+        position: absolute;
+        top: 148%;
+         left: 50%;
+         margin: 0%;
+        font-family: arial;
+        font-size:large;
+        color: #292727;
+        }  
+        .image10{
+            position: absolute;
+            top: 120%;
+            left: 62%;
+            margin: 0%;
+            }
+.text32{
+        position: absolute;
+        top: 148%;
+         left: 67%;
+         margin: 0%;
+        font-family: arial;
+        font-size:large;
+        color: #292727;
+        }  
+        .image11{
+        position: absolute;
+        top: 120%;
+        left: 82%;
+        margin: 0%;
+        }
+.text33{
+        position: absolute;
+        top: 148%;
+         left: 87%;
+         margin: 0%;
+        font-family: arial;
+        font-size:large;
+        color: #292727;
+        } 
+.image12{
+            position: absolute;
+            top: 158%;
+            left: 5%;
+            margin: 0%;
+            } 
+.text34{
+        position: absolute;
+        top: 185%;
+         left: 10%;
+         margin: 0%;
+        font-family: arial;
+        font-size:large;
+        color: #292727;
+        } 
+.image13{
+            position: absolute;
+            top: 158%;
+            left: 27%;
+            margin: 0%;
+            } 
+.text35{
+        position: absolute;
+        top: 185%;
+         left: 28%;
+         margin: 0%;
+        font-family: arial;
+        font-size:large;
+        color: #292727;
+        } 
+.image14{
+            position: absolute;
+            top: 158%;
+            left: 45%;
+            margin: 0%;
+            } 
+.text36{
+        position: absolute;
+        top: 185%;
+         left: 50%;
+         margin: 0%;
+        font-family: arial;
+        font-size:large;
+        color: #292727;
+        } 
+.image15{
+            position: absolute;
+            top: 158%;
+            left: 63%;
+            margin: 0%;
+            } 
+.text37{
+        position: absolute;
+        top: 185%;
+         left: 66%;
+         margin: 0%;
+        font-family: arial;
+        font-size:large;
+        color: #292727;
+        } 
+ .image16{
+            position: absolute;
+            top: 158%;
+            left: 82%;
+            margin: 0%;
+            }  
+.text38{
+        position: absolute;
+        top: 185%;
+         left: 87%;
+         margin: 0%;
+        font-family: arial;
+        font-size:large;
+        color: #292727;
+        }           
+.text39{
+        position: absolute;
+        top: 200%;
+         left: 5%;
+         margin: 0%;
+        font-family: arial;
+        font-size:x-large;
+        color: #292727;
+        }  
+.image17{
+            position: absolute;
+            top: 210%;
+            left: 5%;
+            margin: 0%;
+            }  
+.text40{
+        position: absolute;
+        top: 238%;
+         left: 5%;
+         margin: 0%;
+        font-family: arial;
+        font-size:small;
+        color: #292727;
+        }     
+.image18{
+            position: absolute;
+            top: 210%;
+            left: 30%;
+            margin: 0%;
+            } 
+.text41{
+        position: absolute;
+        top: 238%;
+         left: 28%;
+         margin: 0%;
+        font-family: arial;
+        font-size:small;
+        color: #292727;
+        }      
+.image19{
+            position: absolute;
+            top: 210%;
+            left: 54%;
+            margin: 0%;
+            } 
+.text42{
+        position: absolute;
+        top: 238%;
+         left: 52%;
+         margin: 0%;
+        font-family: arial;
+        font-size:small;
+        color: #292727;
+        }     
+.image20{
+            position: absolute;
+            top: 210%;
+            left: 78%;
+            margin: 0%;
+            }
+.text43{
+        position: absolute;
+        top: 238%;
+         left: 75%;
+         margin: 0%;
+        font-family: arial;
+        font-size:small;
+        color: #292727;
+        }    
+.text44{
+        position: absolute;
+        top: 254%;
+         left: 5%;
+         margin: 0%;
+        font-family: arial;
+        font-size:smaller;
+        color: #696868;
+        }     
+.text45{
+        position: absolute;
+        top: 254%;
+         left: 19.5%;
+         margin: 0%;
+        font-family: arial;
+        font-size:small;
+        color: #3f3f3f;
+        }  
+.text46{
+        position: absolute;
+        top: 251%;
+         left: 23.5%;
+         margin: 0%;
+        font-family: arial;
+        font-size:x-large;
+        color: #3d3c3c;
+        }  
+.text47{
+        position: absolute;
+        top: 252.5%;
+         left: 24.5%;
+         margin: 0%;
+        font-family: arial;
+        font-size:small;
+        color: #3d3c3c;
+        }  
+.text48{
+        position: absolute;
+        top: 254%;
+         left: 29%;
+         margin: 0%;
+        font-family: arial;
+        font-size:smaller;
+        color: #696868;
+        }     
+.text49{
+        position: absolute;
+        top: 254%;
+         left: 44%;
+         margin: 0%;
+        font-family: arial;
+        font-size:small;
+        color: #3f3f3f;
+        }  
+.text50{
+        position: absolute;
+        top: 251%;
+         left: 48%;
+         margin: 0%;
+        font-family: arial;
+        font-size:x-large;
+        color: #3d3c3c;
+        }  
+.text51{
+        position: absolute;
+        top: 252.5%;
+         left: 49%;
+         margin: 0%;
+        font-family: arial;
+        font-size:small;
+        color: #3d3c3c;
+        }  
+.text52{
+        position: absolute;
+        top: 254%;
+         left: 52%;
+         margin: 0%;
+        font-family: arial;
+        font-size:smaller;
+        color: #696868;
+        }     
+.text53{
+        position: absolute;
+        top: 254%;
+         left: 64%;
+         margin: 0%;
+        font-family: arial;
+        font-size:small;
+        color: #3f3f3f;
+        }  
+.text54{
+        position: absolute;
+        top: 251%;
+         left: 66%;
+         margin: 0%;
+        font-family: arial;
+        font-size:x-large;
+        color: #3d3c3c;
+        }  
+.text55{
+        position: absolute;
+        top: 252.5%;
+         left: 67%;
+         margin: 0%;
+        font-family: arial;
+        font-size:small;
+        color: #3d3c3c;
+        }  
+.text56{
+        position: absolute;
+        top: 254%;
+         left: 75%;
+         margin: 0%;
+        font-family: arial;
+        font-size:smaller;
+        color: #696868;
+        }     
+.text57{
+        position: absolute;
+        top: 254%;
+         left: 86.5%;
+         margin: 0%;
+        font-family: arial;
+        font-size:small;
+        color: #3f3f3f;
+        }  
+.text58{
+        position: absolute;
+        top: 251%;
+         left: 89%;
+         margin: 0%;
+        font-family: arial;
+        font-size:x-large;
+        color: #3d3c3c;
+        }  
+.text59{
+        position: absolute;
+        top: 252.5%;
+         left: 91%;
+         margin: 0%;
+        font-family: arial;
+        font-size:small;
+        color: #3d3c3c;
+        }  
+.transparent1{
+    position: absolute;
+    top: 230%;
+    left:16% ;
+    height: 40px;
+    width: 80px;
+  background-color:#19c5db; 
+  opacity: 0.5;
+  border-radius: 20px 20px;
+  
+}
+.text60{
+        position: absolute;
+        top: 225.5%;
+         left: 18.3%;
+         margin: 0%;
+        font-size:xx-large;
+        color: #ffffff;
+        }  
+
+.transparent2{
+    position: absolute;
+    top: 230%;
+    left:41% ;
+    height: 40px;
+    width: 80px;
+  background-color:#19c5db; 
+  opacity: 0.5;
+  border-radius: 20px 20px;
+  
+}
+.text61{
+        position: absolute;
+        top: 225.5%;
+         left: 43.5%;
+         margin: 0%;
+        font-size:xx-large;
+        color: #ffffff;
+        }  
+.transparent3{
+    position: absolute;
+    top: 230%;
+    left:65% ;
+    height: 40px;
+    width: 80px;
+  background-color:#19c5db; 
+  opacity: 0.5;
+  border-radius: 20px 20px;
+  
+}
+.text62{
+        position: absolute;
+        top: 225.5%;
+         left: 67.5%;
+         margin: 0%;
+        font-size:xx-large;
+        color: #ffffff;
+        }  
+.transparent4{
+    position: absolute;
+    top: 230%;
+    left:89% ;
+    height: 40px;
+    width: 80px;
+  background-color:#19c5db; 
+  opacity: 0.5;
+  border-radius: 20px 20px;
+  
+}
+.text63{
+        position: absolute;
+        top: 225.5%;
+         left: 91.5%;
+         margin: 0%;
+        font-size:xx-large;
+        color: #ffffff;
+        }
+.transparent5{
+    position: absolute;
+    top: 263%;
+    left:49% ;
+    height: 20px;
+    width: 20px;
+  background-color:#19c5db; 
+  opacity: 0.5;
+  border-radius: 50px;
+  
+}
+.text64{
+        position: absolute;
+        top: 260%;
+         left: 49.3%;
+         margin: 0%;
+        font-size:larger;
+        color: #097056;
+        }
+.text65{
+        position: absolute;
+        top: 261%;
+         left: 51%;
+         margin: 0%;
+        font-size:medium;
+        color: #097056;
+        }
+.text66{
+        position: absolute;
+        top: 268%;
+         left: 5%;
+         margin: 0%;
+        font-family: arial;
+        font-size:x-large;
+        color: #292727;
+        }  
+.image21{
+            position: absolute;
+            top: 277%;
+            left: 5%;
+            margin: 0%;
+            }
+.image22{
+            position: absolute;
+            top: 276%;
+            left: 25%;
+            margin: 0%;
+            }
+.image23{
+            position: absolute;
+            top: 277%;
+            left: 44%;
+            margin: 0%;
+            }
+.image24{
+            position: absolute;
+            top: 275%;
+            left: 59%;
+            margin: 0%;
+            }
+.image25{
+            position: absolute;
+            top: 275%;
+            left: 77%;
+            margin: 0%;
+            }
+.image26{
+            position: absolute;
+            top: 310%;
+            left: 5%;
+            margin: 0%;
+            }
+.image27{
+            position: absolute;
+            top: 310%;
+            left: 25%;
+            margin: 0%;
+            }
+.image28{
+            position: absolute;
+            top: 310%;
+            left: 41%;
+            margin: 0%;
+            }
+.image29{
+            position: absolute;
+            top: 310%;
+            left: 60%;
+            margin: 0%;
+            }
+.image30{
+            position: absolute;
+            top: 310%;
+            left: 78%;
+            margin: 0%;
+            }
+.image31{
+            position: absolute;
+            top: 373%;
+            left: 10%;
+            margin: 0%;
+            }
+.text67{
+        position: absolute;
+        top: 395%;
+        left: 7%;
+        font-family:cursive;
+        font-size: larger;
+        color: #ffffff;
+}
+.text68{
+        position: absolute;
+        top: 373%;
+        left: 35%;
+        font-family:arial;
+        color: #ffffff;
+        font-size: smaller;
+}
+.text69{
+        position: absolute;
+        top: 373%;
+        left: 50%;
+        font-family:arial;
+        color: #ffffff;
+        font-size: smaller;
+}
+.text70{
+        position: absolute;
+        top: 373%;
+        left: 65%;
+        font-family:arial;
+        color: #ffffff;
+        font-size: smaller;
+}
+.text71{
+        position: absolute;
+        top: 390%;
+        left: 65%;
+        font-family:arial;
+        color: #ffffff;
+        font-size: smaller;
+}
+.image32{
+        position: absolute;
+        top: 395%;
+        left: 65%;
+        margin: 0%;
+        }
+.image33{
+        position: absolute;
+        top: 373%;
+        left: 80%;
+        margin: 0%;
+        }
+.text72{
+        position: absolute;
+        top: 419%;
+        left: 15%;
+        font-family:arial;
+        color: #ffffff;
+        font-size:smaller;
+}
+.text73{
+        position: absolute;
+        top: 419%;
+        left: 30%;
+        font-family:arial;
+        color: #ffffff;
+        font-size:smaller;
+}
